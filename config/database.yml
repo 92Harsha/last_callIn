@@ -1,0 +1,10 @@
+
+
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: last_call
+  username: scholar
+  password: scholar
+  host: 172.17.0.1
+  port: 32768
